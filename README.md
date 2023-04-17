@@ -1,13 +1,12 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=Angela%20Kwon&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
 
-Hello! 👋
+### Hello! 👋
 
 ✨ I'm a software engineer passionate about problem-solving and enthusiastic about growing my skills and expanding my experience ✨
 
 - 👩‍💻  I’m currently working on an app that splits the bill, which makes it easy for people to see who owes how much for each item. I'm also going back to update my old projects.   
 - 📱  I’m currently sharpening my Bootstrap knowledge, as most people now look at web pages on mobile.
 - 🔎  Checkout my [website](https://angela-kwon-portfolio.netlify.app/) to see my portfolio and other details!
-
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,7 +33,7 @@ Hello! 👋
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Connect with me
+### Contact Me
 <a href="mailto:angelaakwonn@gmail.com?subject=Hi%20Angela%20Kwon"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/angelakwon2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
